@@ -3,6 +3,13 @@
 
 This project is a simple yet powerful machine learning model that predicts the presence of heart disease based on clinical and diagnostic data. The model is trained using **Logistic Regression** on a heart disease dataset containing key medical features like age, chest pain type, blood pressure, cholesterol levels, and more.
 
+## 📁 File Structure
+|
+|-Heart Disease Predicition.ipynb
+|
+|-heart_disease_data
+
+
 ## 📁 Dataset Features
 
 The dataset contains the following features:
