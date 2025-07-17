@@ -44,7 +44,6 @@ The Logistic Regression model was chosen for its interpretability and effectiven
 
 - Data preprocessing and scaling using `StandardScaler`
 - Train-test split with stratified sampling
-- Hyperparameter tuning using `GridSearchCV`
 - Evaluation using accuracy, precision, recall, and F1-score
 
 ## 📈 Results
